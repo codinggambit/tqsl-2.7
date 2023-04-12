@@ -1,4 +1,4 @@
-# tslq-2.7
+# tqsl-2.7
 Ham Radio Tool
 
 This is the TrustedQSL project, which provides tools for digitally
